@@ -1,0 +1,607 @@
+[
+    {
+        "area": "Light World",
+        "req": [[null]],
+        "children":[
+
+            {
+                "name": "Ped",
+                "req":[["g_pendant", "r&b_pendant"]],
+                "items": 1
+            },
+
+            {
+                "name": "Lj",
+                "req":[["aga", "boots"]],
+                "items": 1
+            },
+
+            {
+                "name": "Blind",
+                "req":[[null]],
+                "items": 5
+            },
+
+            {
+                "name": "Kak well",
+                "req": [[null]],
+                "items": 5
+            },
+
+            {
+                "name": "Merchant",
+                "req": [[null]],
+                "items": 1
+            },
+
+            {
+                "name": "Chicken house",
+                "req": [[null]],
+                "items": 1
+            },
+
+            {
+                "name": "Bar",
+                "req": [[null]],
+                "items": 1
+            },
+
+            {
+                "name": "Kak well",
+                "req": [["hammer","powder"],["mirror","moonpearl","powder","glove2"]],
+                "items": 1
+            },
+
+            {
+                "name": "Bonk rocks",
+                "req": [["boots"]],
+                "items": 1
+            },
+
+            {
+                "name": "Sick kid",
+                "req": [["bottle"]],
+                "items": 1
+            },
+            
+            {
+                "name": "Greveyard ledge",
+                "req": [["aga","hookshot","glove1","moonpearl"],["aga","hookshot","hammer","moonpearl"],["glove1","moonpearl","mirror","hammer"],["glove2","moonpearl","mirror"]],
+                "items": 1
+            },
+
+            {
+                "name": "King's tomb",
+                "req": [["glove2","boots"],["boots","glove1","hookshot","aga","moonpearl","mirror"],["boots","hammer","hookshot","aga","moonpearl","mirror"],["boots","glove1","hammer","moonpearl","mirror"]],
+                "items": 1
+            },
+
+            {
+                "name": "Uncle",
+                "req": [[null]],
+                "items": 2
+            },
+
+            {
+                "name": "Escape",
+                "items": 6,
+                "sections":
+                [
+                {
+                    "name": "back side",
+                    "req": [["glove1"],["lamp"],["firerod"]]
+                },
+                {
+                    "name": "dark cross",
+                    "req": [["lamp"],["firerod"]]
+                },
+                {
+                    "name": "rest",
+                    "req": [[null]]
+                }
+                ]
+            },
+
+            {
+                "name": "Links house",
+                "req": [[null]],
+                "items": 1 
+            },
+
+            {
+                "name": "Sahasrahla",
+                "items": 4,
+                "sections":
+                [
+                {
+                    "name": "closet",
+                    "req": [[null]]
+                },
+                {
+                    "name": "pendant",
+                    "req": [["g_pendant"]]
+                }
+                ]
+            },
+
+            {
+                "name": "Witch",
+                "req": [["mushroom"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Waterfall fairy\n+ zora ledge",
+                "req": [["flippers"]],
+                "items": 3 
+            },
+            {
+                "name": "King zora",
+                "req": [["glove1"],["flippers"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Thief drop",
+                "req": [[null]],
+                "items": 1 
+            },
+
+            {
+                "name": "Mushroom",
+                "req": [[null]],
+                "items": 1 
+            },
+
+            {
+                "name": "Library",
+                "req": [["boots"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Flute spot",
+                "req": [["shovel"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Cave 45",
+                "req": [["mirror","hammer","glove1","moonpearl"],["mirror", "glove2", "moonpearl"],["mirror","moonpearl","hammer","aga"],["mirror","moonpearl","glove1","hookshot","aga"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Damb",
+                "req": [[null]],
+                "items": 2 
+            },
+
+            {
+                "name": "Mini moldorm",
+                "req": [[null]],
+                "items": 5 
+            },
+
+            {
+                "name": "Icerod cave",
+                "req": [[null]],
+                "items": 1 
+            },
+
+            {
+                "name": "Hobo",
+                "req": [["flippers"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Aginah",
+                "req": [[null]],
+                "items": 1 
+            },
+
+            {
+                "name": "Lake island",
+                "req": [["mirror","aga","flippers","moonpearl"],["mirror","hammer","glove1","moonpearl","flippers"],["mirror","moonpearl","glove2","flippers"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Checkerboard",
+                "req": [["flute", "glove2","mirror","moonpearl"]],
+                "items": 1 
+            },
+            {
+                "name": "Mire",
+                "items": 2,
+                "sections": [
+                    {
+                        "name": "some chests in front",
+                        "req": [["mm_medalion", "moonpearl", "glove2", "flute", "hookshot", "sword1"], ["mm_medalion", "moonpearl", "glove2", "flute", "boots", "sword1"]]
+                    },
+                    {
+                        "name": "boss",
+                        "req": [["mm_medalion", "moonpearl", "glove2", "flute", "hookshot", "sword1", "redcane", "lamp"], ["mm_medalion", "moonpearl", "glove2", "flute", "boots", "sword1", "redcane", "lamp"]]
+                    }
+                ]
+            },
+
+            {
+                "name": "Mire shed",
+                "req": [["flute", "glove2","moonpearl"]],
+                "items": 2 
+            },
+
+            {
+                "name": "Desert ledge",
+                "req": [["book"],["flute", "glove2", "mirror"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Bombos tablet",
+                "req": [["book", "sword2", "moonpearl","hammer", "glove1"],["book", "sword2", "moonpearl", "glove2"],["book", "sword2", "moonpearl", "aga","hammer"],["book", "sword2", "moonpearl", "aga", "hookshot", "glove1"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Eastern palace",
+                "items": 3, 
+                "sections":[
+                    {
+                        "name": "front",
+                        "req": [[null]]
+                    },
+                    {
+                        "name": "bk chest",
+                        "req": [["lamp"]]
+                    },
+                    {
+                        "name": "back",
+                        "req": [["lamp", "bow"],["firerod", "bow"]]
+                    }
+
+                ]
+            },
+
+            {
+                "name": "Desert palace",
+                "items": 2, 
+                "sections":[
+                    {
+                        "name": "rest",
+                        "req": [["book"], ["flute", "mirror", "moonpearl", "glove2"]]
+                    },
+                    {
+                        "name": "torch",
+                        "req": [["book", "boots"], ["flute", "mirror", "moonpearl", "glove2", "boots"]]
+                    }
+                ]
+            },
+
+            {
+                "name": "Aga tower",
+                "req": [["sword2", "lamp"],["cape", "lamp"]],
+                "items": 0 
+            },
+
+            {
+                "name": "Pyramid",
+                "req": [["aga"], ["hammer", "glove1", "moonpearl"], ["glove2", "moonpearl","flippers"]],
+                "items": 1 
+            }
+        ]
+    },
+            
+    {
+        "area": "Death moutain",
+        "req": [["lamp","glove1"],["flute"]],
+        "children":[
+            {
+                "name": "Old man",
+                "req": [["lamp"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Spec",
+                "items": 2,
+                "sections":
+                [
+                {
+                    "name": "Cave",
+                    "req": [[null]]
+                },
+                {
+                    "name": "top",
+                    "req": [["mirror"]]
+                }
+                ]
+            },
+            
+            {
+                "name": "Either tablet",
+                "req": [["book","sword2"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Spiral cave",
+                "req": [["hammer", "mirror"],["hookshot"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Paradox",
+                "req": [["hammer", "mirror"],["hookshot"]],
+                "items": 7 
+            },
+
+            {
+                "name": "Tower of hera",
+                "items": 2,
+                "sections": [
+                    {
+                        "name": "torch",
+                        "req": [["firerod", "mirror"],["firerod", "hammer","hookshot"],["lamp", "mirror"],["lamp", "hammer","hookshot"]]
+                    },
+                    {
+                        "name": "rest",
+                        "req": [["mirror"],["hammer", "hookshot"]]
+                    }
+                ]
+            },
+
+            {
+                "name": "Spike cave",
+                "req": [["hammer", "moonpearl", "cape"],["hammer", "moonpearl", "bluecane"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Superbunny",
+                "req": [["glove2", "moonpearl", "hookshot"], ["glove2", "moonpearl", "hammer", "mirror"]],
+                "items": 2 
+            },
+
+            {
+                "name": "Hookshot cave\n+ floating island",
+                "items": 5, 
+                "sections":[
+                    {
+                        "name": "floating island",
+                        "req": [["glove2", "moonpearl", "hookshot", "mirror"],["glove2", "moonpearl", "hammer", "mirror"]]
+                    },
+                    {
+                        "name": "bottom chest",
+                        "req": [["boots", "glove2", "moonpearl", "hammer", "mirror"], ["glove2", "moonpearl", "hookshot"]]
+                    },
+                    {
+                        "name": "rest",
+                        "req": [["glove2", "moonpearl", "hookshot"]]
+                    }
+                ]
+            },
+
+            {
+                "name": "Turtle rock\n+ mimic cave",
+                "items": 6 ,
+                "sections":[
+                    {
+                        "name": "front",
+                        "req": [["mirror", "hammer", "glove2", "tr_medalion", "moonpearl", "redcane", "firerod", "sword1"],["hammer", "glove2", "tr_medalion", "moonpearl", "hookshot","redcane", "sword1", "firerod"]]
+                    },
+                    {
+                        "name": "mimic cave",
+                        "req": [["mirror", "hammer", "glove2","sword1", "tr_medalion", "moonpearl", "redcane", "firerod"]]
+                    },
+                    {
+                        "name": "befor dark maze",
+                        "req": [["mirror", "hammer", "glove2", "tr_medalion", "moonpearl", "redcane", "firerod", "sword1"],["hammer", "glove2", "tr_medalion", "moonpearl", "hookshot","redcane", "firerod","sword1"]]
+                    },
+                    {
+                        "name": "lazer bridge",
+                        "req": [["mirror", "hammer", "glove2", "tr_medalion", "moonpearl", "redcane", "firerod", "lamp","sword1"],["hammer", "glove2", "tr_medalion", "moonpearl", "hookshot","redcane", "firerod", "lamp","sword1"]]
+                    },
+                    {
+                        "name": "boss",
+                        "req": [["mirror", "hammer", "glove2", "tr_medalion", "moonpearl", "redcane", "firerod", "lamp", "icerod","sword1"],["hammer", "glove2", "tr_medalion", "moonpearl", "hookshot","redcane", "firerod", "lamp", "icerod","sword1"]]
+                    }
+                ]
+            },
+
+            {
+                "name": "Ganons tower",
+                "items": 20 ,
+                "sections":[
+                    {
+                        "name": "some chests",
+                        "req": [["mirror", "hammer", "glove2", "moonpearl", "all_crystals"],["glove2", "moonpearl", "hookshot", "all_crystals"]]
+                    },
+                    {
+                        "name": "full clear",
+                        "req": [["glove2", "moonpearl", "hookshot", "hammer", "bow", "boots", "lamp", "firerod", "all_crystals"]]
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "area": "East dark world",
+        "req": [["glove2", "moonpearl", "flippers"],["glove1", "hammer", "moonpearl"],["aga", "moonpearl"]],
+        "children":[
+            {
+                "name": "Catfish",
+                "req": [["hammer"],["flippers"],["glove1"]],
+                "items": 1 
+            },
+
+            {
+                "name": "POD",
+                "items": 5,
+                "sections":[
+                    {
+                        "name": "entrance left",
+                        "req": [[null]]
+                    },
+                    {
+                        "name": "rest",
+                        "req": [["bow", "lamp", "hammer"]]
+                    }
+                ] 
+            }
+
+        ]
+    },
+
+    {
+        "area": "west dark world",
+        "req": [["glove2", "moonpearl"],["glove1", "hammer", "moonpearl"],["aga", "moonpearl", "hammer"],["aga", "moonpearl", "glove1", "hookshot"]],
+        "children":[
+            {
+                "name": "Bumper cave",
+                "req": [["cape"]],
+                "items": 1 
+            },
+
+            {
+                "name": "C house",
+                "req": [[null]],
+                "items": 1 
+            },
+
+            {
+                "name": "Chest game",
+                "req": [[null]],
+                "items": 2 
+            },
+
+            {
+                "name": "Brewery",
+                "req": [[null]],
+                "items": 1 
+            },
+
+            {
+                "name": "Hammerpegs",
+                "req": [["hammer", "glove2"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Smith",
+                "req": [["glove2"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Purple chest",
+                "req": [["glove2"]],
+                "items": 1 
+            },
+
+            {
+                "name": "Stumpy",
+                "req": [[null]],
+                "items": 1 
+            },
+
+            {
+                "name": "Dig game",
+                "req": [[null]],
+                "items": 1 
+            },
+            
+            {
+                "name": "Hypecave",
+                "req": [[null]],
+                "items": 4 
+            },
+
+            {
+                "name": "Pyramid fairy",
+                "req": [["good_crystals", "hammer"]],
+                "items": 2 
+            },
+
+            {
+                "name": "Thiefs town",
+                "items": 4,
+                "sections":[
+                    {
+                        "name": "rest",
+                        "req": [[null]]
+                    },
+                    {
+                        "name": "big chest",
+                        "req": [["hammer"]]
+                    },
+                    {   
+                        "name": "big chest",
+                        "req": [["hammer"]]
+                    },
+                    {
+                        "name": "boss",
+                        "req": [["hammer"],["sword1"]]
+                    }
+                ] 
+            },
+            {
+                "name": "Scull woods",
+                "items": 2,
+                "sections":[
+                    {
+                        "name": "front",
+                        "req": [[null]]
+                    },
+                    {
+                        "name": "back",
+                        "req": [["firerod","sword1"]]
+                    }
+            
+                ]
+            },
+
+            {
+                "name": "Swamp palace",
+                "items": 6,
+                "sections":[
+                    {
+                        "name": "befor hammer",
+                        "req": [["mirror"]]
+                    },
+                    {
+                        "name": "before hookshot",
+                        "req": [["mirror","hammer"]]
+                    },
+                    {
+                        "name": "rest",
+                        "req": [["mirror","hammer", "hookshot"]]
+                    }
+            
+                ]
+            },
+            {
+                "name": "Ice palace",
+                "items": 3,
+                "sections":[
+                    {
+                        "name": "3 chsets",
+                        "req": [["firerod", "flippers", "glove2"],["bombos", "flippers", "glove2"]]
+                    },
+                    {
+                        "name": "2 chests",
+                        "req": [["firerod", "hammer", "hookshot", "flippers", "glove2"],["bombos", "hammer", "hookshot", "flippers", "glove2"]]
+                    },
+                    {
+                        "name": "boss",
+                        "req": [["firerod", "hammer"],["bombos", "hammer", "flippers", "glove2"]]
+                    }
+            
+                ]
+            }
+        ]
+    }
+]
