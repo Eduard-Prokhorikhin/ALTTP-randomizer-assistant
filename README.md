@@ -19,3 +19,5 @@ The the trackers logic is based on data.json file which consists of all possible
 - View of accesible locations sorted by amount of checks and if its fully clearable
   - Click the "DONE" button to remove the location from the view
   - Some locations may only be partially clearable and therefore will be grayed out with the number of items indicating the the total not the accesible amount
+
+![img](alttpr.png)
